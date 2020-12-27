@@ -1,3 +1,8 @@
+# Introduction
+This is a github for NCTU course "Selected Topics in Visual Recognition using Deep Learning" homework Final: Global Wheat Detection.
+I refer to facebook's contribution, detectron2.
+All of my homework was completed and can be train/predict in Google colab and predict Kaggle.
+
 # README
 
 1. Install pytorch and detectron.

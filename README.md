@@ -3,6 +3,13 @@ This is a github for NCTU course "Selected Topics in Visual Recognition using De
 I refer to facebook's contribution, detectron2.
 All of my homework was completed and can be train/predict in Google colab and predict Kaggle.
 
+# My Homework Program
+The program I made in Google colab is based on facebook detectron2's colab tuturial program.
+
+[my homework colab](https://colab.research.google.com/drive/1mPiyNd4Y10qPU0GTia9k5CkEyTpTo-Er?usp=sharing)
+
+[Kaggle Competition](https://www.kaggle.com/wangchilung/detectron2-for-global-wheat-detection)
+
 # README
 
 1. Install pytorch and detectron.

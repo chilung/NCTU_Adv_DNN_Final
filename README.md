@@ -29,3 +29,5 @@ register_coco_instances('wheat_valid', {}, 'wheat_valid_coco.json', './')</code>
 12. The train dataset are also used to verify the mAP and submission jason format as well.
 13. In Prepare submission file section, each instance is recorded in the list of `image_id` and `PredictionString`.
 14. The final submission file can be obtained from the file of `./submission.json`.
+15. In Pseudo Labeling section, you can find the program to perfrom pseudo labeling.
+16. In this homework, I also try the AdamP package. Please refer to the paper of: [AdamP: Slowing Down the Slowdown for Momentum Optimizers on Scale-invariant Weights](https://arxiv.org/abs/2006.08217).

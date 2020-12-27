@@ -10,7 +10,8 @@ The program I made in Google colab is based on facebook detectron2's colab tutur
 
 [Kaggle Competition](https://www.kaggle.com/wangchilung/detectron2-for-global-wheat-detection)
 
-# README
+# Reproduce The Result
+This program is a self sustained program. The procedure is highlighted here:
 
 1. Install pytorch and detectron.
 2. After detectron2 installed, the runtime needs to be restarted. Thus you can see a code exit(0) to restart the runtime and an error message: "你的工作階段因不明原因而異常終止。" shown. This is a correct result. There is no problem to go on executing the program.
